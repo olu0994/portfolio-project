@@ -1,0 +1,387 @@
+.navbrand-x{
+    color: #FF4181;
+}
+
+.padding-0 {
+ padding: 0px !important;
+}
+.padding-7{
+    padding: 7px !important;
+    padding: 7px !important;
+}
+
+.image-section{
+    height: 720px;
+    background-image: url("../images/laptop1.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position:relative;
+    box-shadow: 0px 0px 10px 0px black;
+}
+
+.image-text{
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.background-transparent{
+    background: rgba(0,0,0,0.8);
+    height: 100%;
+}
+
+.circular-icon{
+ height: 70px;
+ width: 70px;
+ background: white;
+ color:  #FF4181;
+ font-size: 20px;
+ text-align: center;
+ padding-top: 22px;
+ border-radius: 50%;
+ position: absolute;
+ left: 47%;
+ bottom: -35px;
+ box-shadow: 0px 0px 2px 1px gray;
+}
+
+.personal-info{
+ padding-top: 120px;
+ padding-bottom: 120px;
+
+}
+
+.personal-image{
+    border: 10px double #f9f9f9;
+    padding: 0px !important;
+
+}
+
+.personal-details p{
+    border-bottom: 1px solid #f9f9f9;
+    padding-bottom:  12px;
+
+}
+
+.social-icon div{
+    height: 40px;
+    width: 40px;
+    background: #f9f9f9;
+    color: #FF4181;
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 50%;
+    box-shadow:  0px 0px 2px 1px #FF4181;
+
+}
+/* experience secion style */
+#experience-section{
+    background: #FF4181;
+    color: #fff;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.each-experience{
+    background: #fff;
+    color: #666;
+    padding-bottom: 5px  !important; 
+    box-shadow: 0px 0px 1px 1px;
+}
+
+.experience-date p{
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 13px;
+
+}
+
+.experience-title p{
+    color: #FF4181;
+    padding-top: 6px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.experience-title span{
+    float: right;
+}
+
+.nav-circular-icon{
+    height: 70px;
+    width: 70px;
+    background: white;
+    color:  #FF4181;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 22px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px 1px gray;
+    margin-bottom: 20px;
+    margin-left: 120px;
+   }
+
+   .navbar-container{
+       padding-top: 50px !important;
+   }
+
+   .experience-heading{
+       padding-bottom: 50px;
+   }
+
+   /* ends experience secion style */
+   
+
+
+   /* education secion style */
+#education-section{
+    background: #fff;
+    color: #666;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.each-education{
+    background: #fff;
+    color: #666;
+    padding-bottom: 5px  !important; 
+    box-shadow: 0px 0px 1px 1px;
+}
+
+.education-date p{
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 13px;
+
+}
+
+.education-title p{
+    color: #FF4181;
+    padding-top: 6px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.education-title span{
+    float: right;
+}
+
+.nav-circular-icon-red{
+    height: 70px;
+    width: 70px;
+    background: #FF4181;
+    color:  #f9f9f9;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 22px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px 1px gray;
+    margin-bottom: 20px;
+    margin-left: 120px;
+   }
+
+   .navbar-container{
+       padding-top: 50px !important;
+   }
+
+   .education-heading{
+       padding-bottom: 50px;
+   }
+
+   /* ends education secion style */
+
+   /* PORTFOLIO SECTION START HERE*/
+   #portfolio-section{
+
+   }
+   .portfolio-heading{
+       background: #FF4181;
+       color: #fff;
+       padding-top: 120px;
+       padding-bottom: 13px;
+
+   }
+   .portfolio-heading h1{
+       margin-bottom: 30px;
+   }
+   .portfolio-heading small{
+       padding-bottom: 10px;
+       margin-right: 12px;
+   }
+   .portfolio-heading .active{
+       border-bottom:  3px  solid #fff;
+   }
+   .each-image{
+       padding: 3px !important;
+   }
+   .portfolio-image-section{
+       padding-top: 40px;
+   }
+   .nav-circular-icon-plus{
+    height: 70px;
+    width: 70px;
+    background: #FF4181;
+    color:  #f9f9f9;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 22px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px 1px gray;
+    margin-bottom: 20px;
+    margin-top: 70px;
+   }
+
+   /**portfolio section ends**/
+
+
+ /**review section**/
+
+   #review-section{
+       padding-top: 120px;
+       padding-bottom: 120px;
+   }
+   .each-review{
+       padding-top: 50px;
+       padding-bottom: 50px;
+       box-shadow: 0px 0px 2px 1px #f1f1f1;
+       text-align: center;
+       color: #d4d2d2;
+   }
+   .review-icon{
+       font-size: 28px;
+   }
+   .review-count{
+       color: #FF4181;
+       font-size: 30px;
+       font-weight:  600;
+   }
+
+   /**review section**/
+
+   /**testimonial styl**/
+   .testimonial-icon{
+       float: right;
+       font-size: 30px;
+       color: #d4d2d2;
+   }
+   .each-testimonial{
+       background: #fff;
+       color: #666;
+       padding-top: 15px;
+       padding-bottom: 15px;
+   }
+   .testimonial-name{
+       color: #FF4181;
+   }
+   .each-testimonial div{
+       margin-bottom: 20px;
+   }
+
+ /* blog secion style */
+ #blog-section{
+    background: #fff;
+    color: #666;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.each-blog{
+    background: #fff;
+    color: #666;
+    padding-bottom: 5px  !important; 
+    box-shadow: 0px 0px 1px 1px;
+}
+
+
+.education-title p{
+    color: #FF4181;
+    padding-top: 6px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.blog-title span{
+    float: right;
+}
+.read-more{
+    float: right;
+    color: #FF4181;
+}
+
+.see-more-{
+    text-align: center;
+    position: absolute;
+    right:  90%;
+    bottom: 100px;
+    color: #FF4181 !important;
+
+   }
+
+   .navbar-container{
+       padding-top: 50px !important;
+   }
+
+   .blog-heading{
+       padding-bottom: 50px;
+   }
+
+   /* ends education secion style */
+
+
+   #contact-section{
+    background: #FF4181;
+    color: #fff;
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
+.contact-details{
+    background: white;
+    color: grey;
+    
+}
+
+.send-message{
+    margin-left: auto;
+}
+.each-contact{
+    background: #fff;
+    color: #666;
+    padding-bottom: 5px  !important; 
+    box-shadow: 0px 0px 1px 1px;
+}
+
+.contact-title p{
+    color: #FF4181;
+    padding-top: 6px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+   .contact-heading{
+       padding-bottom: 50px;
+   }
+
+   .circular-icon-contact{
+    height: 70px;
+    width: 70px;
+    background: white;
+    color:  grey;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 22px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px 1px gray;
+    margin-bottom: 20px;
+    margin-left: 450px;
+   }
+
+
+   
+
